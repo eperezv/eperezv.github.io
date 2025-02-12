@@ -54,9 +54,7 @@ education:
     institution: University of Valencia (Spain)
     date_end: 2018-03-01
     summary: |
-      **Summa Cum Laude**
-
-      **International Mention**
+      **Summa Cum Laude and International Mention**
       
       Thesis on fire and the phylogenetic structure of soil microbial communities. Supervised by [Prof Miguel Verdú](https://www.uv.es/verducam/) and [Prof Marta Goberna](https://scholar.google.es/citations?user=WxZ8VNAAAAAJ&hl=es). Contributions being published in 5 high-impact journals.
     button:
@@ -81,9 +79,9 @@ work:
     summary: |-2
       Diversity and function of **nitrogen-cycling microorganisms**.
 
-      **Projects involved:**
-        - SOILGUARD 
-        - NOPIMS
+      **Projects I am involved:**
+        - SOILGUARD
+        - NO-PIMS
         - EJP TRACE-Soils
       
   - position: Postdoc researcher and Principal Investigator
@@ -94,10 +92,6 @@ work:
     date_end: 2022-12-31
     summary: |
       Impact of landspreading organic materials on soil microbial communities and resistance to antibiotics.
-
-      **Projects involved:**
-        - Tetraycline in soil
-        - Microbial community coalescence
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
