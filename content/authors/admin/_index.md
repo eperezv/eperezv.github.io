@@ -7,7 +7,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 first_name: Eduardo
-last_name: Pérez Valera
+last_name: Pérez-Valera
 
 # Status emoji
 status:
