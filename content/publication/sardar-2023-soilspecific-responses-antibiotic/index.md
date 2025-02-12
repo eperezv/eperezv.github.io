@@ -32,8 +32,6 @@ abstract: Acinetobacter spp. and other non-fermenting Gram-negative bacteria (NF
 
 featured: true
 
-url_pdf: 'Sardar_et_al_2023_FEMS_MicroEco.pdf'
-
 image:
   caption: ''
   focal_point: ""
