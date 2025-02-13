@@ -9,5 +9,5 @@ I'm also a musician. I play many **instruments from the Renaissance**, including
 
 You can have a look at my band website: [ensembledanserye.com](https://ensembledanserye.com).
 
-![My musical project](danserye.jpg)
+![My musical project](instruments.jpg)
 
