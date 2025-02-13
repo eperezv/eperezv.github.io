@@ -15,6 +15,9 @@ authors:
 - Pierre Pétriacq
 - David Wendehenne
 - Laurent Philippot
+authors_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2024-01-01'
 publishDate: '2025-02-08T00:06:59.447600Z'
 publication_types:

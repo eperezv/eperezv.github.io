@@ -2,6 +2,7 @@
 title: My musical project
 description: "My musical project"
 type: music
+reading_time: false
 
 ---
 ![My musical project](danserye2.jpg)
