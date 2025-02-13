@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'INRAE'
     description: 'Microbial ecologist focused on the diverse soil microbiomes under scenarios of global change.'
-    twitter: 'GetResearchDev'
+    twitter: 'E_PerezValera'
   analytics:
     google_analytics: 'G-XWKYHB3DH3'
     baidu_tongji: ''
