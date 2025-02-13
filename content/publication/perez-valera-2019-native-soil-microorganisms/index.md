@@ -32,8 +32,11 @@ abstract: 'Bacterial genes responsible for resistance to antibiotic agents (ARG)
   native soil bacteria are essential for the fertilization effect of manure on soil
   as well as control the dissemination of potentially risky TET-r genes.'
 tags:
-- archived
-- notion
+- soil bacteria
+- tetracycline
+- resistance to antibiotics
+- gamma-radiation
+
 links:
 - name: URL
   url: 10.1038/s41598-019-42734-5

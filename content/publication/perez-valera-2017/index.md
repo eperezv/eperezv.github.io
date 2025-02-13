@@ -32,6 +32,14 @@ abstract: Fire alters ecosystems by changing the composition and community struc
   that environmental filtering and limiting similarity operate simultaneously to assemble
   soil bacterial communities, widening the traditional view that only environmental
   filtering structures bacterial communities.
+
+tags:
+- Mediterranean ecosystems
+- Fire
+- Soil bacterial communities
+- Co-occurrence networks
+- Community phylogenetics
+
 links:
 - name: URL
   url: http://doi.wiley.com/10.1111/1462-2920.13609
