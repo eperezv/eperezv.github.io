@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I have worked in both **natural** and **managed ecosystems**, studying how environmental disturbances affect microbial diversity, community structure, and soil functions related to organic matter decomposition and nutrient cycling. 
-
-        In my first postdoc at the **Biology Centre** (Czech Academy of Sciences, Czech Republic), I shifted my focus to managed ecosystems and other stressors, investigating how landspreading organic materials impacts soil properties and microbial communities. I specifically quantified the spread of environmentally risky bacteria and the release of **antibiotic resistance genes** into the environment.
+        I study how environmental disturbances, both **natural and managed**, shape soil microbial diversity, community structure, and ecosystem functions such as organic matter decomposition and nutrient cycling. 
         
-        Recently, in my second postdoc at **INRAE** (France), I joined a research group specializing in the diversity and function of **nitrogen-cycling microorganisms**.
+        During my PhD, I investigated the effects of forest fires in Mediterranean ecosystems on soil microbial communities, including archaea, bacteria and fungi, focusing on the phylogenetic diversity and the relationship with ecosystem functioning. 
+        
+        In my first postdoc at the **Biology Centre** of the Czech Academy of Sciences (Chequia), I shifted to managed ecosystems and other stressors, examining how the application of organic amendments impacts soil properties and microbial communities. I specifically quantified the environmental dissemination of potentially pathogenic bacteria and the spread of **antibiotic resistance genes**.
+        
+        Currently, at **INRAE** in France, I work on the diversity and ecological roles of **nitrogen-cycling microorganisms**, aiming to understand their functional responses to agricultural practices.
         
         *Please reach out to collaborate* 😃
     design:
