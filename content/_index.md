@@ -41,7 +41,7 @@ sections:
         
         In my first postdoc at the **Biology Centre** of the Czech Academy of Sciences (Chequia), I shifted to managed ecosystems and other stressors, examining how the application of organic amendments impacts soil properties and microbial communities. I specifically quantified the environmental dissemination of potentially pathogenic bacteria and the spread of **antibiotic resistance genes**.
         
-        Currently, at **INRAE** in France, I work on the diversity and ecological roles of **nitrogen-cycling microorganisms**, aiming to understand their functional responses to agricultural practices.
+        Currently, at **INRAe** in France, I work on the diversity and ecological roles of **nitrogen-cycling microorganisms**, aiming to understand their functional responses to agricultural practices.
         
         *Please reach out to collaborate* 😃
     design:
